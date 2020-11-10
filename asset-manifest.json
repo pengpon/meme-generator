@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "//pengpon.github.io/meme-generator/static/css/main.66350d46.chunk.css",
+    "main.js": "//pengpon.github.io/meme-generator/static/js/main.4b8618a0.chunk.js",
+    "main.js.map": "//pengpon.github.io/meme-generator/static/js/main.4b8618a0.chunk.js.map",
+    "runtime-main.js": "//pengpon.github.io/meme-generator/static/js/runtime-main.c363f093.js",
+    "runtime-main.js.map": "//pengpon.github.io/meme-generator/static/js/runtime-main.c363f093.js.map",
+    "static/js/2.ecb8c5ab.chunk.js": "//pengpon.github.io/meme-generator/static/js/2.ecb8c5ab.chunk.js",
+    "static/js/2.ecb8c5ab.chunk.js.map": "//pengpon.github.io/meme-generator/static/js/2.ecb8c5ab.chunk.js.map",
+    "index.html": "//pengpon.github.io/meme-generator/index.html",
+    "static/css/main.66350d46.chunk.css.map": "//pengpon.github.io/meme-generator/static/css/main.66350d46.chunk.css.map",
+    "static/js/2.ecb8c5ab.chunk.js.LICENSE.txt": "//pengpon.github.io/meme-generator/static/js/2.ecb8c5ab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c363f093.js",
+    "static/js/2.ecb8c5ab.chunk.js",
+    "static/css/main.66350d46.chunk.css",
+    "static/js/main.4b8618a0.chunk.js"
+  ]
+}
